@@ -97,7 +97,7 @@
 |---|---|
 | [Реестр требований](https://github.com/mavricheva/1c-business-analyst-portfolio/blob/main/04-1c-erp-supplier-order-approval/requirements-register.pdf) | Функциональные и нефункциональные требования, источники, владельцы и варианты реализации |
 | [Частное техническое задание](https://github.com/mavricheva/1c-business-analyst-portfolio/blob/main/04-1c-erp-supplier-order-approval/technical-specification.pdf) | Архитектура решения, объекты системы, маршрут процесса, настройки и права доступа |
-| [Тест-кейс]([https://github.com/mavricheva/1c-business-analyst-portfolio/blob/main/bpmn-procurement-optimization/test-case-TC04.pdf](https://github.com/mavricheva/1c-business-analyst-portfolio/blob/main/04-1c-erp-supplier-order-approval/test-case-TC04.pdf)) | Проверка положительного сценария согласования заказа свыше пороговой суммы |
+| [Тест-кейс](https://github.com/mavricheva/1c-business-analyst-portfolio/blob/main/04-1c-erp-supplier-order-approval/test-case-TC04.pdf) | Проверка положительного сценария согласования заказа свыше пороговой суммы |
 | [Инструкция администратора](https://github.com/mavricheva/1c-business-analyst-portfolio/blob/main/04-1c-erp-supplier-order-approval/system-administrator-guide.pdf) | Развёртывание базы, настройка функциональных опций, ролей, исполнителей и параметров |
 
 ## Стек
