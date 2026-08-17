@@ -70,10 +70,8 @@
 
 | Материал | Описание |
 |---|---|
-| [BPMN-схема процесса закупок](diagrams/procurement-process.png) | Визуальное описание процесса закупок и ролей участников |
-| [BRD](docs/brd.md) | Бизнес-требования, границы проекта, участники и ожидаемые эффекты |
-| [Матрица анализа требований](docs/requirements-gap-analysis.md) | Сопоставление требований с типовой функциональностью 1С:ERP и потребностями в доработке |
-| [Рекомендации по реализации](docs/implementation-recommendations.md) | Варианты покрытия требований средствами 1С:ERP |
+| [BPMN-схема процесса закупок](https://github.com/mavricheva/1c-business-analyst-portfolio/blob/main/1c-erp-procurement-automation/Diagram.drawio.png) | Визуальное описание процесса закупок и ролей участников |
+| [BRD](https://github.com/mavricheva/1c-business-analyst-portfolio/blob/main/1c-erp-procurement-automation/BRD.pdf) | Бизнес-требования, границы проекта, участники и ожидаемые эффекты |
 
 ## Стек
 
