@@ -46,9 +46,9 @@ BPMN-схемы:
 
 | Материал | Описание |
 |---|---|
-| [BRD](https://github.com/mavricheva/1c-business-analyst-portfolio/blob/main/wholesale-trade-automation/BRD-v1.0.pdf) | Бизнес-требования к автоматизации процессов |
-| [Процесс AS-IS](https://github.com/mavricheva/1c-business-analyst-portfolio/blob/main/wholesale-trade-automation/AS%20IS.drawio.png) | Текущая модель процессов закупки, склада и документооборота |
-| [Процесс TO-BE](https://github.com/mavricheva/1c-business-analyst-portfolio/blob/main/wholesale-trade-automation/TO%20BE.drawio.png) | Целевая модель оптимизированных процессов |
+| [BRD](https://github.com/mavricheva/1c-business-analyst-portfolio/blob/main/02-wholesale-trade-automation/BRD-v1.0.pdf) | Бизнес-требования к автоматизации процессов |
+| [Процесс AS-IS](https://github.com/mavricheva/1c-business-analyst-portfolio/blob/main/02-wholesale-trade-automation/AS%20IS.drawio.png) | Текущая модель процессов закупки, склада и документооборота |
+| [Процесс TO-BE](https://github.com/mavricheva/1c-business-analyst-portfolio/blob/main/02-wholesale-trade-automation/TO%20BE.drawio.png) | Целевая модель оптимизированных процессов |
 
 ## Стек
 
